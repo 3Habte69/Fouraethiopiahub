@@ -1,3 +1,1 @@
-# Fouraethiopia
-
-This is the fixed root structure for Vercel deployment.
+Add integration scripts for Figma, Trello, Notion, To-Do, Slack, Glitch, Zapier here
